@@ -1,2 +1,2 @@
-# Performing-CDC-Using-Debezium
+# Performing CDC Using Debezium
 Tech Stack: Docker, MySQL, Debezium
